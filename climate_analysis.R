@@ -24,3 +24,6 @@ for (temp in fahr){
     print(paste("Fahrenheit temperatures: ",kelvin))
   }  
 }
+
+
+# [ToDo: Greg] Add rainfall processing in climate analysis tool.
